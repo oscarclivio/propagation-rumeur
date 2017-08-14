@@ -1,1 +1,1 @@
-Etude de la propagation d'une rumeur, simulation en C++ et présentation sous format Powerpoint
+Etude de la propagation d'une rumeur, simulation en C++ et présentation sous format Powerpoint, Projet Maroc ENPC 2016
